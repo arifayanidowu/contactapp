@@ -1,0 +1,7 @@
+celcius to fahrenheit
+
+(oC x 9/5) + 32 = oF
+
+Fahrenheit to celcius
+
+(oF - 32) x 5/9 = oC
